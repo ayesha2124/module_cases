@@ -1,0 +1,64 @@
+
+FINANCIAL
+
+1) economical status:
+   These columns directly or indirectly provide insights into an individual's financial situation. 
+   schema(columns):Income,Education,Marital Status,Tax Filing Status,Number of Weeks Worked
+use cases:
+   Tax Policy Development
+   Loan Assessment
+   Financial Assistance
+   Income Support
+
+-----------------------------------------------------------------------
+
+EDUCATION
+
+2) education loan:
+   schema(columns):Education,,Income,Age,Parents Status
+use cases:
+   Financial Need Analysis
+   Employment Tracking
+   International Study Loans
+
+
+3)schlorship based on education:
+  schema: education,age
+use cases:
+   financial help
+   Workforce Development
+
+-------------------------------------------------------------------------------
+
+SOCIAL WELFARE
+
+4)child labour:
+  schema: age,no of weeks worked,income
+use cases:
+    Awareness Campaigns
+    Educational Support
+    Financial asisstance
+    providing scholrship
+
+5)pensions:
+   schema:age,gender,income
+use cases:
+    updating every years pensions database
+
+    
+6)voting system:
+  schema:country,citizenship
+use cases:
+   election monitioring
+   cross border voting
+
+-----------------------------------------------------------------------------------------
+
+EMPLOYMENT:
+
+7)Job oppurtuniites:
+  schema:education,income,no.of weeks worked
+use cases:
+    Employment and Unemployment Analysis Report
+    youth employment and educational reports
+    
